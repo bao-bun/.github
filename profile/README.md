@@ -1,4 +1,4 @@
-<img src="./bot.gif" align="left" width="200"/>
+<img src="./bot.gif" align="left" width="190"/>
 
 ### **`baobun`**
 
