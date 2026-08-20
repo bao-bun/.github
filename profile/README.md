@@ -1,11 +1,23 @@
-### **`baobun`**
+<div align="center">
 
-Baobun is a very customizable giveaways Discord bot, with a strong focus on reliability and ease of use, featuring a intuitive dashboard.
+# 🍥 baobun
 
-<a href="https://www.baobun.dev/invite">**Invite**</a> -
-<a href="https://www.baobun.dev">**Website**</a> -
-<a href="https://docs.baobun.dev">**Docs**</a> -
-<a href="https://dash.baobun.dev">**Dashboard**</a> -
-<a href="https://discord.gg/AXRShswtZ4">**Support Server**</a>
+### A powerful, customizable Discord bot for giveaways, server utilities, ping on join, activity tracking, leaderboards and more.
 
-Before using our bot, please read our <a href="https://www.baobun.dev/terms">Terms of Service</a> and <a href="https://www.baobun.dev/privacy">Privacy Policy</a>
+[![Website](https://img.shields.io/badge/Website-baobun.dev-5865F2?style=for-the-badge)](https://www.baobun.dev)
+[![Dashboard](https://img.shields.io/badge/Dashboard-Open-5865F2?style=for-the-badge)](https://www.baobun.dev/dash)
+[![Documentation](https://img.shields.io/badge/Documentation-Read-5865F2?style=for-the-badge)](https://www.baobun.dev/docs)
+[![Discord](https://img.shields.io/badge/Discord-Add%20baobun-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.baobun.dev)
+
+**[Website](https://www.baobun.dev)** •
+**[Dashboard](https://www.baobun.dev/dash)** •
+**[Documentation](https://www.baobun.dev/docs)** •
+**[Commands](https://www.baobun.dev/commands)** •
+**[Status](https://www.baobun.dev/status)** •
+**[Changelogs](https://www.baobun.dev/changelogs)**
+
+</div>
+
+baobun is a highly customizable Discord bot built for modern communities. It combines powerful tools to make your community more active with extensive customization and an easy-to-use web dashboard.
+
+Please read our **[Terms of Service](https://www.baobun.dev/terms)** and **[Privacy Policy](https://www.baobun.dev/privacy)** before using our bot.
